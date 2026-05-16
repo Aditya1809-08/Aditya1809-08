@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✦+The+expert+in+anything+was+once+a+beginner.+✦" alt="quote" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Aditya!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Exploring%20Tech%20%26%20Development%20|%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=16" />
-
-### 💬 *"The expert in anything was once a beginner."*
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=12th+Grader+%7C+Future+Dev+%F0%9F%9A%80;HTML+%26+CSS+Explorer+%F0%9F%8C%8F;Learning+in+Public+%F0%9F%93%9A;Building+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
