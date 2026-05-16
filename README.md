@@ -1,7 +1,6 @@
 <div align="center">
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=✦+The+expert+in+anything+was+once+a+beginner.+✦)
+### ✨ *"The expert in anything was once a beginner."* ✨
 
 # Hey, I'm Aditya! 👋
 
