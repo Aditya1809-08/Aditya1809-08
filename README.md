@@ -42,8 +42,10 @@
 
 ### 🌐 My Projects
 
-[![Hello-World](https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=Hello-World&theme=merko&hide_border=true)](https://github.com/Aditya1809-08/Hello-World)
 
+<a href="https://github.com/Aditya1809-08/Hello-World">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=Hello-World&theme=merko&hide_border=true&show_owner=true" />
+</a>
 ---
 
 ### 📬 Connect With Me
