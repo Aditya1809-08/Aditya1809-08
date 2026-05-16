@@ -32,9 +32,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya1809-08&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
