@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="banner.png" width="100%" height="200px" style="object-fit:cover; border-radius:10px;" />
+  
+  <br/>
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✦+The+expert+in+anything+was+once+a+beginner.+✦" alt="quote" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Aditya!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Exploring%20Tech%20%26%20Development%20|%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=16" />
 
