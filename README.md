@@ -94,6 +94,5 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 <div align="center">
 
-*"The expert in anything was once a beginner."*
-
+*"More to come stay tunne."*
 </div>
