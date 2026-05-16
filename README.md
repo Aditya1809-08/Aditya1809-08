@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="banner.png" width="100%" height="200px" style="object-fit:cover; border-radius:10px;" />
-  
-  <br/>
-  <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✦+The+expert+in+anything+was+once+a+beginner.+✦" alt="quote" />
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=✦+The+expert+in+anything+was+once+a+beginner.+✦)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=12th+Grader+%7C+Future+Dev+%F0%9F%9A%80;HTML+%26+CSS+Explorer+%F0%9F%8C%8F;Learning+in+Public+%F0%9F%93%9A;Building+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+# Hey, I'm Aditya! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=12th+Grader+%7C+Future+Dev+%F0%9F%9A%80;HTML+%26+CSS+Explorer+%F0%9F%8C%8F;Learning+in+Public+%F0%9F%93%9A;Building+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=for-the-badge&color=orange&labelColor=black)](https://github.com/Aditya1809-08)
@@ -38,7 +37,6 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -96,6 +94,6 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+*"The expert in anything was once a beginner."*
 
 </div>
