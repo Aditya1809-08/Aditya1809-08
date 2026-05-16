@@ -87,7 +87,7 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.srivastav._18)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
-[![x](https://img.shields.io/badge/X-100000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ASrivastav77092)
+[![x](https://img.shields.io/badge/X-100000?style=for-the-badge&logo=logoColor=white)](https://x.com/ASrivastav77092)
 
 </div>
 
