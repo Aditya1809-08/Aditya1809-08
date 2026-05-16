@@ -32,9 +32,9 @@
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya1809-08&theme=merko&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -57,8 +57,6 @@
 ---
 
 <div align="center">
-
-![Visitor Count](https://visitor-badge.liteflare.com/badges/badge?page_id=Aditya1809-08.Aditya1809-08)
 
 *"Start where you are. Use what you have. Do what you can."*
 
