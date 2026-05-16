@@ -43,9 +43,11 @@
 ### 🌐 My Projects
 
 
-<a href="https://github.com/Aditya1809-08/Hello-World">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=Hello-World&theme=merko&hide_border=true&show_owner=true" />
-</a>
+🌍 &nbsp;**[Hello-World](https://github.com/Aditya1809-08/Hello-World)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My first ever HTML page — where it all began &nbsp;·&nbsp; `HTML` &nbsp;·&nbsp; [View Live →](https://aditya1809-08.github.io/Hello-World/)
+
+⏳ &nbsp;**More coming soon...**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next project in progress — stay tuned!
 ---
 
 ### 📬 Connect With Me
