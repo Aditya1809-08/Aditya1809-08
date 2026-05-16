@@ -42,11 +42,11 @@
 
 ### 🌐 My Projects
 
-| Project | Description | Live |
-|--------|-------------|------|
-| 🌍 Hello World | My first ever HTML page — where it all began | [View Live](https://aditya1809-08.github.io/Hello-World/) |
+🌍 &nbsp;**[Hello World](https://aditya1809-08.github.io/Hello-World/)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My first ever HTML page — where it all began &nbsp;·&nbsp; `HTML` `CSS` &nbsp;·&nbsp; [View Live →](https://aditya1809-08.github.io/Hello-World/)
 
-*More coming soon...*
+⏳ &nbsp;**More coming soon...**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next project in progress — stay tuned!
 
 ---
 
