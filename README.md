@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya1809-08&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=brightgreen&style=flat-square&label=Profile+Views)
 </div>
 
 ---
