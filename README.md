@@ -32,10 +32,9 @@
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
