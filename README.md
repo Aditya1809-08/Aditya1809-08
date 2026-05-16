@@ -32,7 +32,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=brightgreen&style=flat-square&label=Profile+Views)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
