@@ -42,11 +42,7 @@
 
 ### 🌐 My Projects
 
-🌍 &nbsp;**[Hello World](https://aditya1809-08.github.io/Hello-World/)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My first ever HTML page — where it all began &nbsp;·&nbsp; `HTML` `CSS` &nbsp;·&nbsp; [View Live →](https://aditya1809-08.github.io/Hello-World/)
-
-⏳ &nbsp;**More coming soon...**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next project in progress — stay tuned!
+[![Hello-World](https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=Hello-World&theme=merko&hide_border=true)](https://github.com/Aditya1809-08/Hello-World)
 
 ---
 
