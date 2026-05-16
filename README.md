@@ -94,5 +94,5 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 <div align="center">
 
-*"More to come stay tunne."*
+*"More to come stay tune."*
 </div>
