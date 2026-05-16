@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Aditya1809-08/Aditya1809-08/main/bf6e5717d54f562349953c0fcf13b331.jpg" width="100%" height="220px" style="object-fit:cover;" />
+
+<br/>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=✦+The+expert+in+anything+was+once+a+beginner.+✦)
 
 # Hey, I'm Aditya! 👋
