@@ -54,30 +54,9 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 ### 🌐 My Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 Hello World</h3>
-      <p align="center">
-        <a href="https://aditya1809-08.github.io/Hello-World/">
-          <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">My first ever HTML page — where it all began</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 Coming Soon</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/IN_PROGRESS-F97316?style=for-the-badge" />
-      </p>
-      <p align="center">Next project is cooking... stay tuned! 👀</p>
-    </td>
-  </tr>
-</table>
+Check out all my projects at my live gallery 👇
+
+[![Projects](https://img.shields.io/badge/View_All_Projects-4a7c3f?style=for-the-badge&logo=github&logoColor=white)](https://aditya1809-08.github.io/mini-css-projects/)
 
 ---
 
