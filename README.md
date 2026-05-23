@@ -1,15 +1,13 @@
 <div align="center">
 
-### ✨ *"The expert in anything was once a beginner."* ✨
+✨ *"The expert in anything was once a beginner."* ✨
 
 # Hey, I'm Aditya! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=12th+Grader+%7C+Future+Dev+%F0%9F%9A%80;HTML+%26+CSS+Explorer+%F0%9F%8C%8F;Learning+in+Public+%F0%9F%93%9A;Building+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=36&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Building+on...;Learning+in+Public+%F0%9F%9A%80;One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=for-the-badge&color=orange&labelColor=black)](https://github.com/Aditya1809-08)
+[![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=for-the-badge&color=blue&labelColor=black)](https://github.com/Aditya1809-08)
 
 </div>
 
@@ -17,15 +15,15 @@
 
 ### 🙋‍♂️ About Me
 
-```yaml
-Name        : Aditya Srivastav
-Grade       : 12th Grade Student
-Location    : Gorakhpur, Uttar Pradesh, India 🇮🇳
-Currently   : Learning HTML & CSS from the ground up
-Goal        : Build real projects & grow as a developer
-Interests   : Web Development, Tech & Design
-Fun Fact    : I launched my first website before finishing 12th grade 🚀
-```
+| | |
+|---|---|
+| **Name** | Aditya Srivastav |
+| **Grade** | 12th Grade Student |
+| **Location** | Gorakhpur, Uttar Pradesh, India 🇮🇳 |
+| **Currently** | Learning HTML & CSS from the ground up |
+| **Goal** | Build real projects & grow as a developer |
+| **Interests** | Web Development, Tech & Design |
+| **Fun Fact** | I launched my first website before finishing 12th grade 🚀 |
 
 ---
 
@@ -46,7 +44,7 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya1809-08&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya1809-08&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -56,7 +54,7 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 Check out all my projects at my live gallery 👇
 
-[![Projects](https://img.shields.io/badge/View_All_Projects-4a7c3f?style=for-the-badge&logo=github&logoColor=white)](https://aditya1809-08.github.io/mini-css-projects/)
+[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://aditya1809-08.github.io/mini-css-projects/)
 
 ---
 
@@ -67,12 +65,14 @@ Check out all my projects at my live gallery 👇
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.srivastav._18)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuMkEuODAxLjgwMSAwIDAgMCAwIC43OTl2MjIuNDAxQy4wMDEgMjMuNjQyLjM2IDI0IDEuMDI3IDI0aDE5LjE5NUM2LjI2NyAyNCA2LjYyNiAyMy42NDIgNi42MjYgMjMuMVYuOEEuODAzLjgwMyAwIDAgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
+
 </div>
 
 ---
 
 <div align="center">
 
-*"More to come stay tune."*
+*"More to come stay tuned."*
+
 </div>
