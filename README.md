@@ -1,6 +1,6 @@
 <div align="center">
 
-✨ *“Be yourself; everyone else is already taken.”* ✨
+✨*“Be yourself; everyone else is already taken.”*✨
 
 # Hey, I'm Aditya! 👋
 
