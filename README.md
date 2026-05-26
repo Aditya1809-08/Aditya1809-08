@@ -14,7 +14,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-
+ 
 | | |
 |---|---|
 | **Name** | Aditya Srivastav |
@@ -24,7 +24,7 @@
 | **Goal** | Build real projects & grow as a developer |
 | **Interests** | Web Development, Tech & Design |
 | **Fun Fact** | I launched my first website before finishing 12th grade 🚀 |
-
+ 
 ---
 
 ### 🛠️ Languages & Tools
