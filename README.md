@@ -1,6 +1,6 @@
 <div align="center">
 
-✨ *"The expert in anything was once a beginner."* ✨
+✨ *“Be yourself; everyone else is already taken.”* ✨
 
 # Hey, I'm Aditya! 👋
 
