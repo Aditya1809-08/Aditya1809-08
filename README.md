@@ -1,7 +1,7 @@
 
 <!-- BANNER — Replace YOUR_BANNER_URL with your actual image link -->
 <div align="center">
-  <img src="YOUR_BANNER_URL" width="100%" alt="Aditya Srivastav Banner"/>
+  <img src="a1cc318c68417ba1e1743f0cc51b91bc.jpg" width="100%" alt="Aditya Srivastav Banner"/>
 </div>
 
 <div align="center">
