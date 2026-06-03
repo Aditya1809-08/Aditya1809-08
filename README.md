@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Namaste 🙏 I'm Aditya Srivastav
+# Hello 🙏 I'm Aditya Srivastav
 
 👨‍💻 I'm currently a 12th grade science student from Gorakhpur, Uttar Pradesh, actively building my skills in web development and exploring the world of tech. My academic and personal learning journey is focused on building a strong foundation in HTML, CSS & JavaScript while actively exploring emerging technologies. I am particularly passionate about AI/ML and plan to pursue B.Tech in AI/ML at Chandigarh University.
 
