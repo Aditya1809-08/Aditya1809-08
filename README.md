@@ -117,7 +117,7 @@ If you like what I'm building, consider sponsoring me on GitHub!
 <div align="center">
 
 <!-- FOOTER BANNER — Replace YOUR_FOOTER_BANNER_URL with your actual image link -->
-<img src="YOUR_FOOTER_BANNER_URL" width="100%" alt="Footer Banner"/>
+<img src="footer.bg" width="100%" alt="Footer Banner"/>
 
 *"The expert in anything was once a beginner."*
 
