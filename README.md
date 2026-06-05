@@ -74,6 +74,20 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)](https://github.com/Aditya1809-08)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Aditya1809-08&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Aditya1809-08)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Aditya1809-08)
+
+</div>
+
+---
+
 ### 🏆 Best Repositories
 
 <div align="center">
