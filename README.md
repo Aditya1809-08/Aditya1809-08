@@ -78,15 +78,9 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
