@@ -78,11 +78,9 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
 
-<img src="https://nirzak-streak-stats.vercel.app?user=Aditya1809-08&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 
 </div>
 
