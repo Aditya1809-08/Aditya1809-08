@@ -64,13 +64,11 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Aditya1809-08)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya1809-08&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Aditya1809-08)
+[![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=Aditya1809-08&theme=tokyo-night&hide_border=true)](https://github.com/Aditya1809-08)
 
 </div>
 
