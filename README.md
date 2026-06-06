@@ -92,7 +92,7 @@ Fun Fact    : I launched my first website before finishing 12th grade 🚀
 
 | 🌍 Hello World | 🖥️ Mini CSS Projects | 🧮 Calculator |
 |:---:|:---:|:---:|
-| My very first HTML page — where it all began. World map background, live on GitHub Pages. | A Minecraft RTX-themed gallery of HTML/CSS/JS mini projects with animations. | A Minecraft-themed calculator — my first JavaScript project. DOM, events & logic. |
+| My very first HTML page — where it all began. From zero to orbit — one file, infinite possibilities.. | A Minecraft RTX-themed gallery of HTML/CSS/JS mini projects with animations. | A Minecraft-themed calculator — my first JavaScript project. DOM, events & logic. |
 | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [🔗 View Live](https://aditya1809-08.github.io/Hello-World/) | [🔗 View Gallery](https://aditya1809-08.github.io/mini-css-projects/) | [🔗 View Live](https://aditya1809-08.github.io/mini-css-projects/calculator/) |
 
