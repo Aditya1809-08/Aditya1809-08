@@ -10,7 +10,7 @@
 👨‍💻 I'm currently a 12th grade science student from Gorakhpur, Uttar Pradesh, actively building my skills in web development and exploring the world of tech. My academic and personal learning journey is focused on building a strong foundation in HTML, CSS & JavaScript while actively exploring emerging technologies. I am particularly passionate about AI/ML and plan to pursue B.Tech in AI/ML at Chandigarh University.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=for-the-badge&logo=github&label=Followers&color=orange&labelColor=black)](https://github.com/Aditya1809-08?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=orange&labelColor=black)](https://github.com/Aditya1809-08?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Aditya1809-08?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/Aditya1809-08)
 
 </div>
