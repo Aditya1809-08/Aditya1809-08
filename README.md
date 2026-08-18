@@ -127,8 +127,8 @@ If you like what I'm building, consider sponsoring me on GitHub!
 
 <div align="center">
 
-<img src="footer.bg" width="100%" alt="Footer Banner"/>
+<img src="dbca020d372b68df025758beeb8df97c.jpg" width="100%" alt="Footer Banner"/>
 
-*"The expert in anything was once a beginner."*
+*"One life make it count"*
 
 </div>
