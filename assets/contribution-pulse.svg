@@ -1,20 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
-<rect width="900" height="230" rx="4" fill="#171824"/>
-<line x1="300" y1="28" x2="300" y2="202" stroke="#777887" stroke-width="2"/>
-<line x1="600" y1="28" x2="600" y2="202" stroke="#777887" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<rect width="900" height="250" rx="4" fill="#171824"/>
+<line x1="300" y1="24" x2="300" y2="226" stroke="#777887" stroke-width="2"/>
+<line x1="600" y1="24" x2="600" y2="226" stroke="#777887" stroke-width="2"/>
 
-<text x="150" y="82" text-anchor="middle" fill="#69a8ff" font-size="28" font-weight="700" font-family="Arial, sans-serif">1001</text>
-<text x="150" y="118" text-anchor="middle" fill="#6f7ea6" font-size="15" font-weight="600" font-family="Arial, sans-serif">Total Contributions</text>
-<text x="150" y="146" text-anchor="middle" fill="#33c56b" font-size="12" font-weight="600" font-family="Arial, sans-serif">Contribution year - Present</text>
+<text x="150" y="78" text-anchor="middle" fill="#69a8ff" font-size="30" font-weight="700" font-family="Arial, sans-serif">1001</text>
+<text x="150" y="116" text-anchor="middle" fill="#6f7ea6" font-size="15" font-weight="600" font-family="Arial, sans-serif">Total Contributions</text>
+<text x="150" y="150" text-anchor="middle" fill="#33c56b" font-size="12" font-weight="600" font-family="Arial, sans-serif">Contribution year</text>
+<text x="150" y="174" text-anchor="middle" fill="#8e94ad" font-size="11" font-family="Arial, sans-serif">Present</text>
 
-<circle cx="450" cy="72" r="44" fill="none" stroke="#303141" stroke-width="6"/>
-<circle cx="450" cy="72" r="44" fill="none" stroke="#33c56b" stroke-width="6" stroke-linecap="round" stroke-dasharray="199.58 276.46" transform="rotate(-90 450 72)"/>
-<path d="M450 38 C444 30 452 23 451 14 C464 24 471 33 467 43 C464 50 458 54 450 54 C441 54 435 48 435 40 C435 35 438 31 442 27 C442 34 445 38 450 38 Z" fill="none" stroke="#69a8ff" stroke-width="3" stroke-linejoin="round"/>
-<text x="450" y="82" text-anchor="middle" fill="#e8e8f2" font-size="26" font-weight="700" font-family="Arial, sans-serif">15</text>
-<text x="450" y="118" text-anchor="middle" fill="#c88cff" font-size="15" font-weight="600" font-family="Arial, sans-serif">Current Streak</text>
-<text x="450" y="146" text-anchor="middle" fill="#33c56b" font-size="12" font-weight="600" font-family="Arial, sans-serif">Active streak</text>
+<circle cx="450" cy="86" r="42" fill="none" stroke="#303141" stroke-width="6"/>
+<circle cx="450" cy="86" r="42" fill="none" stroke="#33c56b" stroke-width="6" stroke-linecap="round" stroke-dasharray="199.58 263.89" transform="rotate(-90 450 86)"/>
+<path d="M450 52 C444 44 452 37 451 28 C464 38 471 47 467 57 C464 64 458 68 450 68 C441 68 435 62 435 54 C435 49 438 45 442 41 C442 48 445 52 450 52 Z" fill="none" stroke="#69a8ff" stroke-width="3" stroke-linejoin="round"/>
+<text x="450" y="95" text-anchor="middle" fill="#e8e8f2" font-size="25" font-weight="700" font-family="Arial, sans-serif">15</text>
+<text x="450" y="137" text-anchor="middle" fill="#c88cff" font-size="15" font-weight="600" font-family="Arial, sans-serif">Current Streak</text>
+<text x="450" y="165" text-anchor="middle" fill="#33c56b" font-size="12" font-weight="600" font-family="Arial, sans-serif">15 days</text>
 
-<text x="750" y="82" text-anchor="middle" fill="#69a8ff" font-size="28" font-weight="700" font-family="Arial, sans-serif">34</text>
-<text x="750" y="118" text-anchor="middle" fill="#6f7ea6" font-size="15" font-weight="600" font-family="Arial, sans-serif">Longest Streak</text>
-<text x="750" y="146" text-anchor="middle" fill="#33c56b" font-size="12" font-weight="600" font-family="Arial, sans-serif">Longest recorded</text>
+<text x="750" y="78" text-anchor="middle" fill="#69a8ff" font-size="30" font-weight="700" font-family="Arial, sans-serif">34</text>
+<text x="750" y="116" text-anchor="middle" fill="#6f7ea6" font-size="15" font-weight="600" font-family="Arial, sans-serif">Longest Streak</text>
+<text x="750" y="150" text-anchor="middle" fill="#33c56b" font-size="12" font-weight="600" font-family="Arial, sans-serif">Best run</text>
+<text x="750" y="174" text-anchor="middle" fill="#8e94ad" font-size="11" font-family="Arial, sans-serif">34 days</text>
 </svg>
