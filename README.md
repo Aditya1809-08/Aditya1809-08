@@ -138,9 +138,7 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&border_radius=12" width="48%" alt="GitHub contribution statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&hide_border=true&theme=github-dark-blue&border_radius=12" width="48%" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&hide_border=true&theme=github-dark-blue&border_radius=12" width="78%" alt="GitHub contribution streak, total contributions and longest streak" />
 
 <br />
 <br />
