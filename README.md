@@ -128,20 +128,19 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Progress & Stats
 
 <div align="center">
 
-<!-- Reliable GitHub-generated contribution chart -->
-<img src="https://github.com/Aditya1809-08.png?size=160" width="110" alt="Aditya Srivastav GitHub avatar" />
-
-### Building in public, one commit at a time.
+<img src="assets/github-stats.svg" width="95%" alt="GitHub contribution progress and language statistics" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=flat-square&label=Followers)](https://github.com/Aditya1809-08)
 [![GitHub stars](https://img.shields.io/github/stars/Aditya1809-08?style=flat-square&label=Stars)](https://github.com/Aditya1809-08)
 [![Repositories](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAditya1809-08)](https://github.com/Aditya1809-08?tab=repositories)
 
 </div>
+
+> **The graph updates automatically every day through GitHub Actions.**
 
 ## 🧠 Learning Roadmap
 
@@ -165,6 +164,14 @@ HTML / CSS ──► JavaScript ──► Real Projects ──► APIs
 </div>
 
 ---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya1809--08-181717?style=for-the-badge&logo=github)](https://github.com/Aditya1809-08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
+[![Instagram](https://img.shields.io/badge/Instagram-aditya.srivastav._18-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/aditya.srivastav._18)
 
 ### Learn → Build → Ship → Repeat.
 
