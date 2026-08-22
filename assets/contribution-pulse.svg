@@ -1,24 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
-<rect width="900" height="300" rx="18" fill="#0d1117"/>
-<rect x="1" y="1" width="898" height="298" rx="18" fill="none" stroke="#30363d"/>
-<text x="32" y="38" fill="#f0f6fc" font-size="22" font-weight="700" font-family="Arial, sans-serif">Contribution Pulse</text>
-<text x="32" y="64" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">Live data from your GitHub contribution calendar</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<defs>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#388bfd"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#56d364"/><stop offset="1" stop-color="#2ea043"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b7a"/><stop offset="1" stop-color="#f85149"/></linearGradient>
+</defs>
+<rect width="900" height="360" rx="20" fill="#0d1117"/>
+<rect x="1" y="1" width="898" height="358" rx="20" fill="none" stroke="#30363d"/>
+<text x="32" y="42" fill="#f0f6fc" font-size="23" font-weight="800" font-family="Arial, sans-serif">Contribution Pulse</text>
+<text x="32" y="67" fill="#8b949e" font-size="13" font-family="Arial, sans-serif">Live snapshot from your GitHub contribution calendar</text>
+<rect x="758" y="27" width="110" height="30" rx="15" fill="#12261a" stroke="#238636"/>
+<circle cx="777" cy="42" r="5" fill="#3fb950"/>
+<text x="789" y="47" fill="#7ee787" font-size="12" font-weight="700" font-family="Arial, sans-serif">LIVE DATA</text>
 <g>
-  <circle cx="180" cy="145" r="72" fill="none" stroke="#30363d" stroke-width="16"/>
-  <circle cx="180" cy="145" r="72" fill="none" stroke="#58a6ff" stroke-width="16" stroke-linecap="round" stroke-dasharray="452.39 452.39" transform="rotate(-90 180 145)"/>
-  <text x="180" y="152" text-anchor="middle" fill="#f0f6fc" font-size="28" font-weight="700" font-family="Arial, sans-serif">1001</text>
-  <text x="180" y="250" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="700" font-family="Arial, sans-serif">Total Contributions</text>
+  <rect x="30" y="92" width="250" height="238" rx="18" fill="#151b23" stroke="#30363d"/>
+  <circle cx="155" cy="185" r="54" fill="none" stroke="#252c35" stroke-width="12"/>
+  <circle cx="155" cy="185" r="54" fill="none" stroke="url(#blue)" stroke-width="12" stroke-linecap="round" stroke-dasharray="339.29 339.29" transform="rotate(-90 155 185)"/>
+  <text x="155" y="194" text-anchor="middle" fill="#f0f6fc" font-size="30" font-weight="800" font-family="Arial, sans-serif">1001</text>
+  <text x="155" y="266" text-anchor="middle" fill="#f0f6fc" font-size="17" font-weight="700" font-family="Arial, sans-serif">Total Contributions</text>
+  <text x="155" y="290" text-anchor="middle" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">this contribution year</text>
 </g>
 <g>
-  <circle cx="450" cy="145" r="72" fill="none" stroke="#30363d" stroke-width="16"/>
-  <circle cx="450" cy="145" r="72" fill="none" stroke="#3fb950" stroke-width="16" stroke-linecap="round" stroke-dasharray="199.58 452.39" transform="rotate(-90 450 145)"/>
-  <text x="450" y="152" text-anchor="middle" fill="#f0f6fc" font-size="28" font-weight="700" font-family="Arial, sans-serif">15</text>
-  <text x="450" y="250" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="700" font-family="Arial, sans-serif">Current Streak</text>
+  <rect x="325" y="92" width="250" height="238" rx="18" fill="#151b23" stroke="#30363d"/>
+  <circle cx="450" cy="185" r="54" fill="none" stroke="#252c35" stroke-width="12"/>
+  <circle cx="450" cy="185" r="54" fill="none" stroke="url(#green)" stroke-width="12" stroke-linecap="round" stroke-dasharray="149.69 339.29" transform="rotate(-90 450 185)"/>
+  <text x="450" y="194" text-anchor="middle" fill="#f0f6fc" font-size="30" font-weight="800" font-family="Arial, sans-serif">15</text>
+  <text x="450" y="266" text-anchor="middle" fill="#f0f6fc" font-size="17" font-weight="700" font-family="Arial, sans-serif">Current Streak</text>
+  <text x="450" y="290" text-anchor="middle" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">days in a row</text>
 </g>
 <g>
-  <circle cx="720" cy="145" r="72" fill="none" stroke="#30363d" stroke-width="16"/>
-  <circle cx="720" cy="145" r="72" fill="none" stroke="#f78166" stroke-width="16" stroke-linecap="round" stroke-dasharray="452.39 452.39" transform="rotate(-90 720 145)"/>
-  <text x="720" y="152" text-anchor="middle" fill="#f0f6fc" font-size="28" font-weight="700" font-family="Arial, sans-serif">34</text>
-  <text x="720" y="250" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="700" font-family="Arial, sans-serif">Longest Streak</text>
+  <rect x="620" y="92" width="250" height="238" rx="18" fill="#151b23" stroke="#30363d"/>
+  <circle cx="745" cy="185" r="54" fill="none" stroke="#252c35" stroke-width="12"/>
+  <circle cx="745" cy="185" r="54" fill="none" stroke="url(#orange)" stroke-width="12" stroke-linecap="round" stroke-dasharray="339.29 339.29" transform="rotate(-90 745 185)"/>
+  <text x="745" y="194" text-anchor="middle" fill="#f0f6fc" font-size="30" font-weight="800" font-family="Arial, sans-serif">34</text>
+  <text x="745" y="266" text-anchor="middle" fill="#f0f6fc" font-size="17" font-weight="700" font-family="Arial, sans-serif">Longest Streak</text>
+  <text x="745" y="290" text-anchor="middle" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">best streak recorded</text>
 </g>
 </svg>
