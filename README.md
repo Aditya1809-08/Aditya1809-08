@@ -132,19 +132,7 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area_color=1f6feb&area=true&hide_border=true&radius=12&custom_title=Daily%20Commit%20Activity%20%E2%80%94%20Last%2030%20Days" width="100%" alt="Daily GitHub commit activity for the last 30 days" />
-
-</div>
-
-## 🔥 Contribution Pulse
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya1809-08&theme=github_dark" width="100%" alt="Live GitHub contribution activity and total contributions" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Aditya1809-08&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F85149&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="92%" alt="Live GitHub contribution streak statistics" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area_color=1f6feb&area=true&hide_border=true&radius=12&custom_title=Daily%20Commit%20Activity%20%E2%80%94%20Last%2030%20Days" width="82%" alt="Daily GitHub commit activity for the last 30 days" />
 
 </div>
 
