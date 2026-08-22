@@ -132,12 +132,14 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&border_radius=12" width="48%" alt="GitHub contribution statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&hide_border=true&theme=github-dark-blue&border_radius=12" width="48%" alt="GitHub contribution streak" />
+
+<br />
+<br />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area_color=1f6feb&area=true&hide_border=true&radius=12&custom_title=Daily%20Commit%20Activity%20%E2%80%94%20Last%2030%20Days" width="82%" alt="Daily GitHub commit activity for the last 30 days" />
-
-<br />
-<br />
-
-<img src="assets/contribution-pulse.svg" width="82%" alt="GitHub contribution and streak donut charts" />
 
 </div>
 
