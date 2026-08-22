@@ -140,7 +140,7 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 <div align="center">
 
-<img src="assets/contribution-pulse.svg" width="92%" alt="Total contributions and current streak" />
+<img src="https://streak-stats.demolab.com?user=Aditya1809-08&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F85149&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="92%" alt="Live GitHub contribution statistics and current streak" />
 
 </div>
 
