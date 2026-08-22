@@ -46,41 +46,40 @@ first_day = days[0][0] if days else today
 def fmt(d):
     return d.strftime("%b %-d, %Y")
 
-W, H = 900, 230
+W, H = 900, 260
 BG = "#171824"
-DIVIDER = "#777887"
 TEXT = "#e8e8f2"
-MUTED = "#6f7ea6"
+MUTED = "#8b90a7"
 BLUE = "#69a8ff"
 GREEN = "#33c56b"
 PURPLE = "#c88cff"
 
-ring_r = 44
+ring_r = 55
 circ = 2 * math.pi * ring_r
-ratio = (current / longest) if longest else 0
-ring_dash = circ * min(1, ratio)
 
-flame = '''<path d="M450 38 C444 30 452 23 451 14 C464 24 471 33 467 43 C464 50 458 54 450 54 C441 54 435 48 435 40 C435 35 438 31 442 27 C442 34 445 38 450 38 Z" fill="none" stroke="#69a8ff" stroke-width="3" stroke-linejoin="round"/>'''
+def donut(cx, cy, value, maximum, color):
+    ratio = min(1, value / maximum) if maximum else 0
+    dash = circ * ratio
+    return f'''<circle cx="{cx}" cy="{cy}" r="{ring_r}" fill="none" stroke="#303141" stroke-width="12"/>
+<circle cx="{cx}" cy="{cy}" r="{ring_r}" fill="none" stroke="{color}" stroke-width="12" stroke-linecap="round" stroke-dasharray="{dash:.2f} {circ:.2f}" transform="rotate(-90 {cx} {cy})"/>'''
+
+# Keep the contribution donut meaningful as the total grows.
+contribution_max = max(1000, total)
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
-<rect width="{W}" height="{H}" rx="4" fill="{BG}"/>
-<line x1="300" y1="28" x2="300" y2="202" stroke="{DIVIDER}" stroke-width="2"/>
-<line x1="600" y1="28" x2="600" y2="202" stroke="{DIVIDER}" stroke-width="2"/>
+<rect width="{W}" height="{H}" rx="12" fill="{BG}"/>
+<text x="450" y="30" text-anchor="middle" fill="{TEXT}" font-size="16" font-weight="700" font-family="Arial, sans-serif">Contribution Overview</text>
 
-<text x="150" y="82" text-anchor="middle" fill="{BLUE}" font-size="28" font-weight="700" font-family="Arial, sans-serif">{total}</text>
-<text x="150" y="118" text-anchor="middle" fill="{MUTED}" font-size="15" font-weight="600" font-family="Arial, sans-serif">Total Contributions</text>
-<text x="150" y="146" text-anchor="middle" fill="{GREEN}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(first_day)} - Present</text>
+{donut(270, 105, total, contribution_max, BLUE)}
+<text x="270" y="101" text-anchor="middle" fill="{TEXT}" font-size="24" font-weight="700" font-family="Arial, sans-serif">{total}</text>
+<text x="270" y="126" text-anchor="middle" fill="{MUTED}" font-size="13" font-weight="600" font-family="Arial, sans-serif">Total Contributions</text>
+<text x="270" y="190" text-anchor="middle" fill="{BLUE}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(first_day)} - Present</text>
 
-<circle cx="450" cy="72" r="44" fill="none" stroke="#303141" stroke-width="6"/>
-<circle cx="450" cy="72" r="44" fill="none" stroke="{GREEN}" stroke-width="6" stroke-linecap="round" stroke-dasharray="{ring_dash:.2f} {circ:.2f}" transform="rotate(-90 450 72)"/>
-{flame}
-<text x="450" y="82" text-anchor="middle" fill="{TEXT}" font-size="26" font-weight="700" font-family="Arial, sans-serif">{current}</text>
-<text x="450" y="118" text-anchor="middle" fill="{PURPLE}" font-size="15" font-weight="600" font-family="Arial, sans-serif">Current Streak</text>
-<text x="450" y="146" text-anchor="middle" fill="{GREEN}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(current_start) if current_start else 'No active streak'}</text>
-
-<text x="750" y="82" text-anchor="middle" fill="{BLUE}" font-size="28" font-weight="700" font-family="Arial, sans-serif">{longest}</text>
-<text x="750" y="118" text-anchor="middle" fill="{MUTED}" font-size="15" font-weight="600" font-family="Arial, sans-serif">Longest Streak</text>
-<text x="750" y="146" text-anchor="middle" fill="{GREEN}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(longest_start)} - {fmt(longest_end)}</text>
+{donut(630, 105, current, max(1, longest), GREEN)}
+<text x="630" y="101" text-anchor="middle" fill="{TEXT}" font-size="24" font-weight="700" font-family="Arial, sans-serif">{current}</text>
+<text x="630" y="126" text-anchor="middle" fill="{MUTED}" font-size="13" font-weight="600" font-family="Arial, sans-serif">Current Streak</text>
+<text x="630" y="158" text-anchor="middle" fill="{PURPLE}" font-size="12" font-weight="600" font-family="Arial, sans-serif">Longest: {longest} days</text>
+<text x="630" y="190" text-anchor="middle" fill="{GREEN}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(current_start) if current_start else 'No active streak'}</text>
 </svg>'''
 
 os.makedirs("assets", exist_ok=True)
