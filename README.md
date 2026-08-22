@@ -11,6 +11,7 @@ Building small, polished web projects while learning by doing.
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya1809--08-111111?style=for-the-badge&logo=github)](https://github.com/Aditya1809-08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
 [![Instagram](https://img.shields.io/badge/Instagram-aditya.srivastav._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.srivastav._18)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
 
 </div>
 
