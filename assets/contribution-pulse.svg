@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect width="900" height="300" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="898" height="298" rx="18" fill="none" stroke="#30363d"/>
+<text x="32" y="38" fill="#f0f6fc" font-size="22" font-weight="700" font-family="Arial, sans-serif">Contribution Pulse</text>
+<text x="32" y="64" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">Live data from your GitHub contribution calendar</text>
+<g>
+  <circle cx="180" cy="145" r="72" fill="none" stroke="#30363d" stroke-width="16"/>
+  <circle cx="180" cy="145" r="72" fill="none" stroke="#58a6ff" stroke-width="16" stroke-linecap="round" stroke-dasharray="452.39 452.39" transform="rotate(-90 180 145)"/>
+  <text x="180" y="152" text-anchor="middle" fill="#f0f6fc" font-size="28" font-weight="700" font-family="Arial, sans-serif">1001</text>
+  <text x="180" y="250" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="700" font-family="Arial, sans-serif">Total Contributions</text>
+</g>
+<g>
+  <circle cx="450" cy="145" r="72" fill="none" stroke="#30363d" stroke-width="16"/>
+  <circle cx="450" cy="145" r="72" fill="none" stroke="#3fb950" stroke-width="16" stroke-linecap="round" stroke-dasharray="199.58 452.39" transform="rotate(-90 450 145)"/>
+  <text x="450" y="152" text-anchor="middle" fill="#f0f6fc" font-size="28" font-weight="700" font-family="Arial, sans-serif">15</text>
+  <text x="450" y="250" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="700" font-family="Arial, sans-serif">Current Streak</text>
+</g>
+<g>
+  <circle cx="720" cy="145" r="72" fill="none" stroke="#30363d" stroke-width="16"/>
+  <circle cx="720" cy="145" r="72" fill="none" stroke="#f78166" stroke-width="16" stroke-linecap="round" stroke-dasharray="452.39 452.39" transform="rotate(-90 720 145)"/>
+  <text x="720" y="152" text-anchor="middle" fill="#f0f6fc" font-size="28" font-weight="700" font-family="Arial, sans-serif">34</text>
+  <text x="720" y="250" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="700" font-family="Arial, sans-serif">Longest Streak</text>
+</g>
+</svg>
