@@ -127,7 +127,7 @@ If you like what I'm building, consider sponsoring me on GitHub!
 
 <div align="center">
 
-<img src="dbca020d372b68df025758beeb8df97c.jpg" width="100%" alt="Footer Banner"/>
+<img src="footer.png" width="100%" alt="Footer Banner"/>
 
 *"One life make it count"*
 
