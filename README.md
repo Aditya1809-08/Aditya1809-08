@@ -136,15 +136,6 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 </div>
 
-## 🔥 Contribution Pulse
-
-<div align="center">
-
-<img src="assets/contribution-pulse.svg" width="62%" alt="Live GitHub total contributions, current streak, and longest streak" />
-
-</div>
-
----
 
 ## 🧠 Learning Roadmap
 
