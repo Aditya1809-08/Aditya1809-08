@@ -1,125 +1,129 @@
-<!-- BANNER — Replace YOUR_BANNER_URL with your actual image link -->
-<div align="center">
-  <img src="header.png" width="100%" alt="Aditya Srivastav Banner"/>
-</div>
-
 <div align="center">
 
-# Hello, 👋 I'm Aditya Srivastav
+<img src="header.png" width="100%" alt="Aditya Srivastav header" />
 
-👨‍💻 I'm currently a 12th grade science student from Gorakhpur, Uttar Pradesh, actively building my skills in web development and exploring the world of tech. My academic and personal learning journey is focused on building a strong foundation in HTML, CSS & JavaScript while actively exploring emerging technologies. I am particularly passionate about AI/ML and plan to pursue B.Tech in AI/ML at Chandigarh University.
+# Hi 👋, I'm Aditya Srivastav
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya1809-08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=orange&labelColor=black)](https://github.com/Aditya1809-08?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Aditya1809-08?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/Aditya1809-08)
+### 12th Grade Student • Aspiring Web Developer • Learning AI/ML
+
+I build small web experiences, experiment with UI, and learn by turning ideas into working projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya1809--08-111111?style=for-the-badge&logo=github)](https://github.com/Aditya1809-08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
+[![Instagram](https://img.shields.io/badge/Instagram-aditya.srivastav._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.srivastav._18)
+[![X](https://img.shields.io/badge/X-ASrivastav77092-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
 
 </div>
 
 ---
 
-### 🙋‍♂️ About Me
+## 🧭 About Me
 
-```yaml
-Name        : Aditya Srivastav
-Grade       : 12th Grade Student (Science Stream)
-Location    : Gorakhpur, Uttar Pradesh, India 🇮🇳
-Currently   : Learning HTML, CSS & JavaScript from the ground up
-Goal        : B.Tech AI/ML @ Chandigarh University 🎯
-Interests   : Web Development, AI/ML, Design & Tech
-Fun Fact    : I launched my first website before finishing 12th grade 🚀
+> **12th-grade science student from Gorakhpur, India**, currently building my foundation in web development and exploring AI/ML.
+
+- 🌱 Learning **HTML, CSS & JavaScript** by building projects instead of only following tutorials.
+- 🎨 Interested in **UI design, animations, creative web experiences and AI tools**.
+- 🛠️ I like making compact projects that are actually interactive and usable.
+- 🎯 Long-term goal: study **B.Tech in AI/ML** and grow into a strong software/AI developer.
+- 🚀 Currently documenting the journey one project and one commit at a time.
+
+## ⚙️ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Mini CSS Projects
+
+A growing collection of small web experiments, landing pages and interactive builds using HTML, CSS and JavaScript.
+
+**Featured:**
+- Calculator
+- Weather App
+- Stopwatch
+- Calendar
+- Social Cards
+- Terminal UI
+- Habit Tracker
+
+[View repository →](https://github.com/Aditya1809-08/mini-css-projects)
+
+</td>
+<td width="50%">
+
+### 🧪 Current Direction
+
+I'm moving from simple styling experiments toward more functional projects:
+
+- JavaScript & DOM
+- Interactive interfaces
+- Responsive layouts
+- API-based projects
+- Better Git/GitHub workflow
+- Early exploration of AI/ML
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,canva,notion" alt="Tech stack" />
+
+</div>
+
+## 🚀 Projects I'm Proud Of
+
+| Project | What it shows | Stack |
+|---|---|---|
+| **Mini CSS Projects** | A themed gallery containing multiple interactive mini-projects and experiments. | HTML • CSS • JavaScript |
+| **Calcora** | A responsive glassmorphism calculator with expression/result handling and keyboard-style interaction. | HTML • CSS • JavaScript |
+| **Weather App** | A glassmorphic weather interface with city search, unit switching, themed weather states and dynamic UI. | HTML • CSS • JavaScript |
+| **Social Cards** | A responsive social-profile directory with platform previews and custom visual themes. | HTML • CSS • JavaScript |
+| **Hello World** | One of my earliest experimental web pages, focused on creative presentation and animation. | HTML • CSS |
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&hide_border=true&theme=transparent" alt="GitHub streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&hide_border=true&bg_color=00000000&color=6b7280&line=111827&point=111827&area=true&area_color=9ca3af" width="95%" alt="Contribution activity graph" />
+
+</div>
+
+## 🧠 Learning Roadmap
+
+```text
+HTML / CSS  ──► JavaScript ──► Real Projects ──► APIs
+                              │
+                              ├──► UI / UX
+                              └──► AI / ML ──► B.Tech
 ```
 
----
-
-### 🔥 What I'm Working On
-
-- 🌱 **Currently Learning** — JavaScript, DOM manipulation & building real projects
-- 🛠️ **Building** — Mini CSS Projects gallery with Minecraft RTX theme
-- 📖 **Exploring** — UI/UX design, CSS animations & creative web experiences
-- 🎯 **Goal** — Land a B.Tech AI/ML seat & build a strong portfolio before college
-- ⚡ **Fun** — I document everything in public — one commit at a time
-
----
-
-### 🛠️ Languages & Tools I Have Placed My Hands On
+## 📌 Repositories
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![Mini CSS Projects](https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=mini-css-projects&hide_border=true&theme=transparent)](https://github.com/Aditya1809-08/mini-css-projects)
+[![Hello World](https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=Hello-World&hide_border=true&theme=transparent)](https://github.com/Aditya1809-08/Hello-World)
 
 </div>
 
----
-
-### 📊 GitHub Activity
+## 🌐 Connect
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=Aditya1809-08&theme=tokyo-night&hide_border=true)](https://github.com/Aditya1809-08)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&theme=tokyonight&hide_border=true" />
-
-
-</div>
-
----
-
-### 🏆 Best Repositories
-
-<div align="center">
-
-| 🌍 Hello World | 🖥️ Mini CSS Projects | 🧮 Calculator |
-|:---:|:---:|:---:|
-| My very first HTML page — where it all began. From zero to orbit — one file, infinite possibilities.. | A Minecraft RTX-themed gallery of HTML/CSS/JS mini projects with animations. | A Minecraft-themed calculator — my first JavaScript project. DOM, events & logic. |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [🔗 View Live](https://aditya1809-08.github.io/Hello-World/) | [🔗 View Gallery](https://aditya1809-08.github.io/mini-css-projects/) | [🔗 View Live](https://aditya1809-08.github.io/mini-css-projects/calculator/) |
-
-</div>
-
----
-
-### 🔗 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.srivastav._18)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
-
-</div>
-
----
-
-### 💖 Support My Work
-
-If you like what I'm building, consider sponsoring me on GitHub!
-
-<div align="center">
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Aditya1809-08)
+[GitHub](https://github.com/Aditya1809-08) • [LinkedIn](https://www.linkedin.com/in/aditya-srivastav-0a247634b/) • [Instagram](https://instagram.com/aditya.srivastav._18) • [X](https://x.com/ASrivastav77092)
 
 </div>
 
@@ -127,8 +131,8 @@ If you like what I'm building, consider sponsoring me on GitHub!
 
 <div align="center">
 
-<img src="footer.png" width="100%" alt="Footer Banner"/>
+### "Learn → Build → Ship → Repeat."
 
-*"One life make it count"*
+<img src="footer.png" width="100%" alt="Footer banner" />
 
 </div>
