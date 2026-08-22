@@ -137,7 +137,7 @@ Responsive social-profile cards with platform-specific visual themes and interac
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&theme=github-dark-blue&hide_border=true&border_radius=12&mode=weekly" width="70%" alt="GitHub contribution streak stats" />
+<img src="https://streak-stats.demolab.com/?user=Aditya1809-08&theme=github-dark-blue&hide_border=true&border_radius=12&mode=daily" width="70%" alt="GitHub total contributions and streak statistics" />
 
 </div>
 
