@@ -72,9 +72,9 @@ Moving from visual experiments toward more functional applications:
 <br />
 <br />
 
-<img src="https://cdn.simpleicons.org/canva" width="48" height="48" alt="Canva" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/make" width="48" height="48" alt="Make.com" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/make/6D00CC" height="48" alt="Make.com" />
 
 </div>
 
