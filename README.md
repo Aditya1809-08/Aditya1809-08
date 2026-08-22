@@ -69,13 +69,6 @@ Moving from visual experiments toward more functional applications:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,notion" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma and Notion" />
 
-<br />
-<br />
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/canva.svg" height="48" alt="Canva" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/make.svg" height="48" alt="Make.com" />
-
 </div>
 
 ---
