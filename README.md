@@ -67,7 +67,13 @@ Moving from visual experiments toward more functional applications:
 
 <div align="center">
 
-<img src="./assets/tech-stack-icons.webp" width="700" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma, Notion, Canva and Make.com" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,notion" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma and Notion" />
+
+<br />
+<br />
+
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)](https://www.make.com/)
 
 </div>
 
