@@ -136,13 +136,6 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 </div>
 
-## 🥧 Contribution Breakdown
-
-<div align="center">
-
-<img src="assets/contribution-pie.svg" width="90%" alt="Contribution breakdown pie chart" />
-
-</div>
 
 ## 📈 Contribution Progress
 
@@ -176,14 +169,6 @@ HTML / CSS ──► JavaScript ──► Real Projects ──► APIs
 </div>
 
 ---
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya1809--08-181717?style=for-the-badge&logo=github)](https://github.com/Aditya1809-08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
-[![Instagram](https://img.shields.io/badge/Instagram-aditya.srivastav._18-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/aditya.srivastav._18)
 
 ### Learn → Build → Ship → Repeat.
 
