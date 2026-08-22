@@ -13,8 +13,6 @@ days.sort()
 total = sum(c for _, c in days)
 counts = {d: c for d, c in days}
 
-# Current streak: count consecutive contribution days ending today; if today is empty,
-# allow the streak to end yesterday.
 today = date.today()
 end = today if counts.get(today, 0) > 0 else today - timedelta(days=1)
 current = 0
@@ -23,53 +21,60 @@ while counts.get(cursor, 0) > 0:
     current += 1
     cursor -= timedelta(days=1)
 
-# Longest streak across the full contribution calendar.
 longest = 0
 run = 0
-for d, c in days:
-    if c > 0:
+for _, count in days:
+    if count > 0:
         run += 1
         longest = max(longest, run)
     else:
         run = 0
 
-# SVG helpers
-W, H = 900, 300
+W, H = 900, 360
 BG = "#0d1117"
-PANEL = "#161b22"
+CARD = "#151b23"
 BORDER = "#30363d"
 TEXT = "#f0f6fc"
 MUTED = "#8b949e"
 BLUE = "#58a6ff"
 GREEN = "#3fb950"
 ORANGE = "#f78166"
-R = 72
+TRACK = "#252c35"
+R = 54
 CIRC = 2 * math.pi * R
 
 
-def donut(cx, cy, value, label, color, max_value=None):
-    # For total contributions, use a capped visual fill; the center text remains exact.
-    if max_value is None:
-        max_value = max(1, value)
-    ratio = min(1, value / max_value) if max_value else 0
+def card(x, title, value, ratio, descriptor, gradient_id):
+    ratio = max(0, min(1, ratio))
     dash = CIRC * ratio
+    cx = x + 125
+    cy = 185
     return f'''<g>
-  <circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="{BORDER}" stroke-width="16"/>
-  <circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="{color}" stroke-width="16" stroke-linecap="round" stroke-dasharray="{dash:.2f} {CIRC:.2f}" transform="rotate(-90 {cx} {cy})"/>
-  <text x="{cx}" y="{cy+7}" text-anchor="middle" fill="{TEXT}" font-size="28" font-weight="700" font-family="Arial, sans-serif">{value}</text>
-  <text x="{cx}" y="{cy+105}" text-anchor="middle" fill="{TEXT}" font-size="18" font-weight="700" font-family="Arial, sans-serif">{label}</text>
+  <rect x="{x}" y="92" width="250" height="238" rx="18" fill="{CARD}" stroke="{BORDER}"/>
+  <circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="{TRACK}" stroke-width="12"/>
+  <circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="url(#{gradient_id})" stroke-width="12" stroke-linecap="round" stroke-dasharray="{dash:.2f} {CIRC:.2f}" transform="rotate(-90 {cx} {cy})"/>
+  <text x="{cx}" y="{cy+9}" text-anchor="middle" fill="{TEXT}" font-size="30" font-weight="800" font-family="Arial, sans-serif">{value}</text>
+  <text x="{cx}" y="266" text-anchor="middle" fill="{TEXT}" font-size="17" font-weight="700" font-family="Arial, sans-serif">{title}</text>
+  <text x="{cx}" y="290" text-anchor="middle" fill="{MUTED}" font-size="12" font-family="Arial, sans-serif">{descriptor}</text>
 </g>'''
 
-# Use the maximum of the three values only for visual balance; numbers remain exact.
 max_streak = max(1, longest)
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
-<rect width="{W}" height="{H}" rx="18" fill="{BG}"/>
-<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="none" stroke="{BORDER}"/>
-<text x="32" y="38" fill="{TEXT}" font-size="22" font-weight="700" font-family="Arial, sans-serif">Contribution Pulse</text>
-<text x="32" y="64" fill="{MUTED}" font-size="14" font-family="Arial, sans-serif">Live data from your GitHub contribution calendar</text>
-{donut(180, 145, total, 'Total Contributions', BLUE, max(1, total))}
-{donut(450, 145, current, 'Current Streak', GREEN, max_streak)}
-{donut(720, 145, longest, 'Longest Streak', ORANGE, max_streak)}
+<defs>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#388bfd"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#56d364"/><stop offset="1" stop-color="#2ea043"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b7a"/><stop offset="1" stop-color="#f85149"/></linearGradient>
+</defs>
+<rect width="{W}" height="{H}" rx="20" fill="{BG}"/>
+<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="20" fill="none" stroke="{BORDER}"/>
+<text x="32" y="42" fill="{TEXT}" font-size="23" font-weight="800" font-family="Arial, sans-serif">Contribution Pulse</text>
+<text x="32" y="67" fill="{MUTED}" font-size="13" font-family="Arial, sans-serif">Live snapshot from your GitHub contribution calendar</text>
+<rect x="758" y="27" width="110" height="30" rx="15" fill="#12261a" stroke="#238636"/>
+<circle cx="777" cy="42" r="5" fill="{GREEN}"/>
+<text x="789" y="47" fill="#7ee787" font-size="12" font-weight="700" font-family="Arial, sans-serif">LIVE DATA</text>
+{card(30, 'Total Contributions', total, 1, 'this contribution year', 'blue')}
+{card(325, 'Current Streak', current, current / max_streak, 'days in a row', 'green')}
+{card(620, 'Longest Streak', longest, 1, 'best streak recorded', 'orange')}
 </svg>'''
 
 os.makedirs("assets", exist_ok=True)
