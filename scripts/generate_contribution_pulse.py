@@ -10,8 +10,8 @@ for week in weeks:
         days.append((date.fromisoformat(cell["date"]), cell["contributionCount"]))
 days.sort()
 
-total = sum(c for _, c in days)
 counts = {d: c for d, c in days}
+total = sum(c for _, c in days)
 
 today = date.today()
 end = today if counts.get(today, 0) > 0 else today - timedelta(days=1)
@@ -20,61 +20,67 @@ cursor = end
 while counts.get(cursor, 0) > 0:
     current += 1
     cursor -= timedelta(days=1)
+current_start = cursor + timedelta(days=1) if current else None
 
 longest = 0
+longest_start = None
+longest_end = None
 run = 0
-for _, count in days:
+run_start = None
+for d, count in days:
     if count > 0:
+        if run == 0:
+            run_start = d
         run += 1
-        longest = max(longest, run)
+        if run > longest:
+            longest = run
+            longest_start = run_start
+            longest_end = d
     else:
         run = 0
+        run_start = None
 
-W, H = 900, 360
-BG = "#0d1117"
-CARD = "#151b23"
-BORDER = "#30363d"
-TEXT = "#f0f6fc"
-MUTED = "#8b949e"
-BLUE = "#58a6ff"
-GREEN = "#3fb950"
-ORANGE = "#f78166"
-TRACK = "#252c35"
-R = 54
-CIRC = 2 * math.pi * R
+first_day = days[0][0] if days else today
 
 
-def card(x, title, value, ratio, descriptor, gradient_id):
-    ratio = max(0, min(1, ratio))
-    dash = CIRC * ratio
-    cx = x + 125
-    cy = 185
-    return f'''<g>
-  <rect x="{x}" y="92" width="250" height="238" rx="18" fill="{CARD}" stroke="{BORDER}"/>
-  <circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="{TRACK}" stroke-width="12"/>
-  <circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="url(#{gradient_id})" stroke-width="12" stroke-linecap="round" stroke-dasharray="{dash:.2f} {CIRC:.2f}" transform="rotate(-90 {cx} {cy})"/>
-  <text x="{cx}" y="{cy+9}" text-anchor="middle" fill="{TEXT}" font-size="30" font-weight="800" font-family="Arial, sans-serif">{value}</text>
-  <text x="{cx}" y="266" text-anchor="middle" fill="{TEXT}" font-size="17" font-weight="700" font-family="Arial, sans-serif">{title}</text>
-  <text x="{cx}" y="290" text-anchor="middle" fill="{MUTED}" font-size="12" font-family="Arial, sans-serif">{descriptor}</text>
-</g>'''
+def fmt(d):
+    return d.strftime("%b %-d, %Y")
 
-max_streak = max(1, longest)
+W, H = 900, 230
+BG = "#171824"
+DIVIDER = "#777887"
+TEXT = "#e8e8f2"
+MUTED = "#6f7ea6"
+BLUE = "#69a8ff"
+GREEN = "#33c56b"
+PURPLE = "#c88cff"
+
+ring_r = 44
+circ = 2 * math.pi * ring_r
+ratio = (current / longest) if longest else 0
+ring_dash = circ * min(1, ratio)
+
+flame = '''<path d="M450 38 C444 30 452 23 451 14 C464 24 471 33 467 43 C464 50 458 54 450 54 C441 54 435 48 435 40 C435 35 438 31 442 27 C442 34 445 38 450 38 Z" fill="none" stroke="#69a8ff" stroke-width="3" stroke-linejoin="round"/>'''
+
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
-<defs>
-  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#388bfd"/></linearGradient>
-  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#56d364"/><stop offset="1" stop-color="#2ea043"/></linearGradient>
-  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b7a"/><stop offset="1" stop-color="#f85149"/></linearGradient>
-</defs>
-<rect width="{W}" height="{H}" rx="20" fill="{BG}"/>
-<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="20" fill="none" stroke="{BORDER}"/>
-<text x="32" y="42" fill="{TEXT}" font-size="23" font-weight="800" font-family="Arial, sans-serif">Contribution Pulse</text>
-<text x="32" y="67" fill="{MUTED}" font-size="13" font-family="Arial, sans-serif">Live snapshot from your GitHub contribution calendar</text>
-<rect x="758" y="27" width="110" height="30" rx="15" fill="#12261a" stroke="#238636"/>
-<circle cx="777" cy="42" r="5" fill="{GREEN}"/>
-<text x="789" y="47" fill="#7ee787" font-size="12" font-weight="700" font-family="Arial, sans-serif">LIVE DATA</text>
-{card(30, 'Total Contributions', total, 1, 'this contribution year', 'blue')}
-{card(325, 'Current Streak', current, current / max_streak, 'days in a row', 'green')}
-{card(620, 'Longest Streak', longest, 1, 'best streak recorded', 'orange')}
+<rect width="{W}" height="{H}" rx="4" fill="{BG}"/>
+<line x1="300" y1="28" x2="300" y2="202" stroke="{DIVIDER}" stroke-width="2"/>
+<line x1="600" y1="28" x2="600" y2="202" stroke="{DIVIDER}" stroke-width="2"/>
+
+<text x="150" y="82" text-anchor="middle" fill="{BLUE}" font-size="28" font-weight="700" font-family="Arial, sans-serif">{total}</text>
+<text x="150" y="118" text-anchor="middle" fill="{MUTED}" font-size="15" font-weight="600" font-family="Arial, sans-serif">Total Contributions</text>
+<text x="150" y="146" text-anchor="middle" fill="{GREEN}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(first_day)} - Present</text>
+
+<circle cx="450" cy="72" r="44" fill="none" stroke="#303141" stroke-width="6"/>
+<circle cx="450" cy="72" r="44" fill="none" stroke="{GREEN}" stroke-width="6" stroke-linecap="round" stroke-dasharray="{ring_dash:.2f} {circ:.2f}" transform="rotate(-90 450 72)"/>
+{flame}
+<text x="450" y="82" text-anchor="middle" fill="{TEXT}" font-size="26" font-weight="700" font-family="Arial, sans-serif">{current}</text>
+<text x="450" y="118" text-anchor="middle" fill="{PURPLE}" font-size="15" font-weight="600" font-family="Arial, sans-serif">Current Streak</text>
+<text x="450" y="146" text-anchor="middle" fill="{GREEN}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(current_start) if current_start else 'No active streak'}</text>
+
+<text x="750" y="82" text-anchor="middle" fill="{BLUE}" font-size="28" font-weight="700" font-family="Arial, sans-serif">{longest}</text>
+<text x="750" y="118" text-anchor="middle" fill="{MUTED}" font-size="15" font-weight="600" font-family="Arial, sans-serif">Longest Streak</text>
+<text x="750" y="146" text-anchor="middle" fill="{GREEN}" font-size="12" font-weight="600" font-family="Arial, sans-serif">{fmt(longest_start)} - {fmt(longest_end)}</text>
 </svg>'''
 
 os.makedirs("assets", exist_ok=True)
