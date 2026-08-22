@@ -128,11 +128,29 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="assets/github-stats.svg" width="100%" alt="Live GitHub progress graph with commits, streaks, contributions and activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&bg_color=0d1117&color=58a6ff&line=a970ff&point=f0f6fc&area=true&hide_border=true&custom_title=Detailed%20Contribution%20Activity" width="100%" alt="Detailed GitHub contribution activity graph" />
+
+</div>
+
+## 🥧 Contribution Breakdown
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=pie&theme=github_dark&hide_border=true&custom_title=Contribution%20Breakdown" width="48%" alt="Pie chart showing contribution breakdown" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true&theme=github_dark&custom_title=Contribution%20Stats" width="48%" alt="GitHub contribution statistics" />
+
+</div>
+
+## 📈 Contribution Progress
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=F0F6FC" width="70%" alt="Current contribution streak" />
 
 </div>
 
