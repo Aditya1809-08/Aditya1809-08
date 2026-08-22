@@ -132,20 +132,9 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 <div align="center">
 
-<img src="assets/github-stats.svg" width="100%" alt="Detailed GitHub contribution statistics, streaks, commits, contribution trend and language distribution" />
+<img src="assets/github-stats.svg" width="100%" alt="Live GitHub progress graph with commits, streaks, contributions and activity" />
 
 </div>
-
-### Included in the graph
-
-- **Total contributions** — your contribution count for the tracked year
-- **Total commits** — commits attributed to your GitHub contribution graph
-- **Current streak** — consecutive days with contributions
-- **Longest streak** — your best consecutive contribution run
-- **26-week contribution trend** — detailed weekly graph with exact values on each point
-- **365-day contribution heatmap** — daily activity, similar to GitHub's contribution grid
-- **Contribution types** — commits, pull requests and issues
-- **Language distribution** — visual breakdown of the languages in your public repositories
 
 ---
 
