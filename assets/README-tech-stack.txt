@@ -1,0 +1,1 @@
+Tech Stack rendering restored to a reliable GitHub-hosted icon row.
