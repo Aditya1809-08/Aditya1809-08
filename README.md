@@ -67,7 +67,14 @@ Moving from visual experiments toward more functional applications:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,canva,notion,make" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma, Canva, Notion and Make.com" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,notion" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma and Notion" />
+
+<br />
+<br />
+
+<img src="https://cdn.simpleicons.org/canva" width="48" height="48" alt="Canva" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/make" width="48" height="48" alt="Make.com" />
 
 </div>
 
