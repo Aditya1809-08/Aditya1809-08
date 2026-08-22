@@ -41,10 +41,8 @@ A growing collection of small web experiments, landing pages and interactive bui
 - Calculator
 - Weather App
 - Stopwatch
-- Calendar
 - Social Cards
 - Terminal UI
-- Habit Tracker
 
 [View repository →](https://github.com/Aditya1809-08/mini-css-projects)
 
