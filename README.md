@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.png" width="100%" alt="Aditya Srivastav header" />
+<img src="headuu.png" width="100%" alt="Aditya Srivastav header" />
 
 # Hi 👋, I'm Aditya Srivastav
 
