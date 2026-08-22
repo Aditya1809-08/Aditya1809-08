@@ -4,14 +4,13 @@
 
 # Hi 👋, I'm Aditya Srivastav
 
-### 12th Grade Student • Aspiring Web Developer • Learning AI/ML
+### 12th Grade Student • Aspiring Web Developer • Exploring AI/ML
 
-I build small web experiences, experiment with UI, and learn by turning ideas into working projects.
+Building small, polished web projects while learning by doing.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya1809--08-111111?style=for-the-badge&logo=github)](https://github.com/Aditya1809-08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
 [![Instagram](https://img.shields.io/badge/Instagram-aditya.srivastav._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.srivastav._18)
-[![X](https://img.shields.io/badge/X-ASrivastav77092-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
 
 </div>
 
@@ -19,13 +18,13 @@ I build small web experiences, experiment with UI, and learn by turning ideas in
 
 ## 🧭 About Me
 
-> **12th-grade science student from Gorakhpur, India**, currently building my foundation in web development and exploring AI/ML.
+I'm a **12th-grade science student from Gorakhpur, India**, currently focused on web development and gradually moving toward AI/ML.
 
-- 🌱 Learning **HTML, CSS & JavaScript** by building projects instead of only following tutorials.
-- 🎨 Interested in **UI design, animations, creative web experiences and AI tools**.
-- 🛠️ I like making compact projects that are actually interactive and usable.
-- 🎯 Long-term goal: study **B.Tech in AI/ML** and grow into a strong software/AI developer.
-- 🚀 Currently documenting the journey one project and one commit at a time.
+- 🌱 Learning **HTML, CSS & JavaScript** through projects.
+- 🎨 Interested in **UI design, animations and creative web experiences**.
+- 🛠️ I prefer building things instead of only following tutorials.
+- 🎯 Long-term direction: **B.Tech in AI/ML + strong software development skills**.
+- 🚀 Currently improving one project and one commit at a time.
 
 ## ⚙️ What I Build
 
@@ -33,32 +32,32 @@ I build small web experiences, experiment with UI, and learn by turning ideas in
 <tr>
 <td width="50%">
 
-### 🎨 Mini CSS Projects
+### 🎨 Web Projects
 
-A growing collection of small web experiments, landing pages and interactive builds using HTML, CSS and JavaScript.
+Small, practical interfaces and experiments built around responsive design and interaction.
 
 **Featured:**
 - Calculator
 - Weather App
 - Stopwatch
+- Calendar
 - Social Cards
 - Terminal UI
-
-[View repository →](https://github.com/Aditya1809-08/mini-css-projects)
+- Habit Tracker
 
 </td>
 <td width="50%">
 
 ### 🧪 Current Direction
 
-I'm moving from simple styling experiments toward more functional projects:
+Moving from visual experiments toward more functional applications:
 
 - JavaScript & DOM
-- Interactive interfaces
-- Responsive layouts
-- API-based projects
+- Responsive UI
+- APIs
 - Better Git/GitHub workflow
-- Early exploration of AI/ML
+- Creative frontend development
+- AI/ML fundamentals
 
 </td>
 </tr>
@@ -72,55 +71,110 @@ I'm moving from simple styling experiments toward more functional projects:
 
 </div>
 
-## 🚀 Projects I'm Proud Of
+---
 
-| Project | What it shows | Stack |
-|---|---|---|
-| **Mini CSS Projects** | A themed gallery containing multiple interactive mini-projects and experiments. | HTML • CSS • JavaScript |
-| **Calcora** | A responsive glassmorphism calculator with expression/result handling and keyboard-style interaction. | HTML • CSS • JavaScript |
-| **Weather App** | A glassmorphic weather interface with city search, unit switching, themed weather states and dynamic UI. | HTML • CSS • JavaScript |
-| **Social Cards** | A responsive social-profile directory with platform previews and custom visual themes. | HTML • CSS • JavaScript |
-| **Hello World** | One of my earliest experimental web pages, focused on creative presentation and animation. | HTML • CSS |
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Mini CSS Projects
+
+A collection of interactive mini-projects, UI experiments and small web builds.
+
+**Stack:** HTML • CSS • JavaScript
+
+[**View Repository →**](https://github.com/Aditya1809-08/mini-css-projects)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 Calcora
+
+A responsive glassmorphism calculator with expression handling and interactive controls.
+
+**Stack:** HTML • CSS • JavaScript
+
+[**View Project →**](https://github.com/Aditya1809-08/mini-css-projects/tree/main/calculator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Weather App
+
+A weather interface with city search, unit switching, dynamic states and a glassmorphic UI.
+
+**Stack:** HTML • CSS • JavaScript
+
+[**View Project →**](https://github.com/Aditya1809-08/mini-css-projects/tree/main/weather-app)
+
+</td>
+<td width="50%" valign="top">
+
+### 👤 Social Cards
+
+Responsive social-profile cards with platform-specific visual themes and interactive UI.
+
+**Stack:** HTML • CSS • JavaScript
+
+[**View Project →**](https://github.com/Aditya1809-08/mini-css-projects/tree/main/social-card)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+<!-- Reliable GitHub-generated contribution chart -->
+<img src="https://github.com/Aditya1809-08.png?size=160" width="110" alt="Aditya Srivastav GitHub avatar" />
 
-<br><br>
+### Building in public, one commit at a time.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&hide_border=true&theme=transparent" alt="GitHub streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&hide_border=true&bg_color=00000000&color=6b7280&line=111827&point=111827&area=true&area_color=9ca3af" width="95%" alt="Contribution activity graph" />
+[![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=flat-square&label=Followers)](https://github.com/Aditya1809-08)
+[![GitHub stars](https://img.shields.io/github/stars/Aditya1809-08?style=flat-square&label=Stars)](https://github.com/Aditya1809-08)
+[![Repositories](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAditya1809-08)](https://github.com/Aditya1809-08?tab=repositories)
 
 </div>
 
 ## 🧠 Learning Roadmap
 
 ```text
-HTML / CSS  ──► JavaScript ──► Real Projects ──► APIs
-                              │
-                              ├──► UI / UX
-                              └──► AI / ML ──► B.Tech
+HTML / CSS ──► JavaScript ──► Real Projects ──► APIs
+                    │
+                    ├──► UI / UX
+                    │
+                    └──► AI / ML ──► B.Tech
 ```
 
 ## 📌 Repositories
 
 <div align="center">
 
-[![Mini CSS Projects](https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=mini-css-projects&hide_border=true&theme=transparent)](https://github.com/Aditya1809-08/mini-css-projects)
-[![Hello World](https://github-readme-stats.vercel.app/api/pin/?username=Aditya1809-08&repo=Hello-World&hide_border=true&theme=transparent)](https://github.com/Aditya1809-08/Hello-World)
+| Repository | Description | Focus |
+|:---|:---|:---|
+| **[mini-css-projects](https://github.com/Aditya1809-08/mini-css-projects)** | Collection of frontend experiments and mini applications | HTML • CSS • JS |
+| **[Hello-World](https://github.com/Aditya1809-08/Hello-World)** | Early creative web experiment | HTML • CSS |
 
 </div>
 
+---
+
+## 🌐 Connect
 
 <div align="center">
 
-### "Learn → Build → Ship → Repeat."
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya1809--08-181717?style=for-the-badge&logo=github)](https://github.com/Aditya1809-08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
+[![Instagram](https://img.shields.io/badge/Instagram-aditya.srivastav._18-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/aditya.srivastav._18)
+
+### Learn → Build → Ship → Repeat.
 
 <img src="footer.png" width="100%" alt="Footer banner" />
 
