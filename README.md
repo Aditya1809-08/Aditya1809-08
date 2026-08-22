@@ -128,34 +128,11 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 ---
 
-## ⚡ GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area_color=1f6feb&area=true&hide_border=true&radius=12&custom_title=BUILD%20%2B%20SHIP%20%2B%20REPEAT" width="100%" alt="Live GitHub contribution activity graph" />
-
-<table>
-<tr>
-<td>
-
-<img src="https://streak-stats.demolab.com?user=Aditya1809-08&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F85149&currStreakLabel=F0F6FC" width="100%" alt="GitHub contribution streak" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&custom_title=Developer%20Pulse" width="100%" alt="GitHub developer statistics" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🥧 Contribution Breakdown
-
-<div align="center">
-
-<img src="assets/contribution-pie.svg" width="86%" alt="Contribution breakdown pie chart" />
+<img src="assets/github-stats.svg" width="100%" alt="GitHub statistics and contribution activity" />
 
 </div>
 
