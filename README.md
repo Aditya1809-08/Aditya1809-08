@@ -187,6 +187,6 @@ HTML / CSS ──► JavaScript ──► Real Projects ──► APIs
 
 ### Learn → Build → Ship → Repeat.
 
-<img src="footer.png" width="100%" alt="Footer banner" />
+<img src="footeru.png" width="100%" alt="Footer banner" />
 
 </div>
