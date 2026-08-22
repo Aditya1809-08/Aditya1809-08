@@ -117,15 +117,6 @@ HTML / CSS  ──► JavaScript ──► Real Projects ──► APIs
 
 </div>
 
-## 🌐 Connect
-
-<div align="center">
-
-[GitHub](https://github.com/Aditya1809-08) • [LinkedIn](https://www.linkedin.com/in/aditya-srivastav-0a247634b/) • [Instagram](https://instagram.com/aditya.srivastav._18) • [X](https://x.com/ASrivastav77092)
-
-</div>
-
----
 
 <div align="center">
 
