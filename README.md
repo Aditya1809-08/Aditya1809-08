@@ -128,19 +128,26 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 ---
 
-## 📊 GitHub Progress & Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="assets/github-stats.svg" width="95%" alt="GitHub contribution progress and language statistics" />
-
-[![GitHub followers](https://img.shields.io/github/followers/Aditya1809-08?style=flat-square&label=Followers)](https://github.com/Aditya1809-08)
-[![GitHub stars](https://img.shields.io/github/stars/Aditya1809-08?style=flat-square&label=Stars)](https://github.com/Aditya1809-08)
-[![Repositories](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAditya1809-08)](https://github.com/Aditya1809-08?tab=repositories)
+<img src="assets/github-stats.svg" width="100%" alt="Detailed GitHub contribution statistics, streaks, commits, contribution trend and language distribution" />
 
 </div>
 
-> **The graph updates automatically every day through GitHub Actions.**
+### Included in the graph
+
+- **Total contributions** — your contribution count for the tracked year
+- **Total commits** — commits attributed to your GitHub contribution graph
+- **Current streak** — consecutive days with contributions
+- **Longest streak** — your best consecutive contribution run
+- **26-week contribution trend** — detailed weekly graph with exact values on each point
+- **365-day contribution heatmap** — daily activity, similar to GitHub's contribution grid
+- **Contribution types** — commits, pull requests and issues
+- **Language distribution** — visual breakdown of the languages in your public repositories
+
+---
 
 ## 🧠 Learning Roadmap
 
