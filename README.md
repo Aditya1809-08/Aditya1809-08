@@ -67,7 +67,7 @@ Moving from visual experiments toward more functional applications:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,canva,notion" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,canva,notion,make" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma, Canva, Notion and Make.com" />
 
 </div>
 
