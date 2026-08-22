@@ -140,9 +140,7 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=pie&theme=github_dark&hide_border=true&custom_title=Contribution%20Breakdown" width="48%" alt="Pie chart showing contribution breakdown" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true&theme=github_dark&custom_title=Contribution%20Stats" width="48%" alt="GitHub contribution statistics" />
+<img src="assets/contribution-pie.svg" width="90%" alt="Contribution breakdown pie chart" />
 
 </div>
 
