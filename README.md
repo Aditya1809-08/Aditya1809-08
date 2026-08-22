@@ -136,6 +136,14 @@ Responsive social-profile cards with platform-specific visual themes and interac
 
 </div>
 
+## 🔥 Contribution Pulse
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aditya1809-08&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F85149&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E&card_width=500&card_height=195" width="62%" alt="Live GitHub total contributions, current streak, and longest streak" />
+
+</div>
+
 ---
 
 ## 🧠 Learning Roadmap
