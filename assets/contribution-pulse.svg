@@ -4,13 +4,13 @@
 
 <circle cx="270" cy="105" r="55" fill="none" stroke="#303141" stroke-width="12"/>
 <circle cx="270" cy="105" r="55" fill="none" stroke="#69a8ff" stroke-width="12" stroke-linecap="round" stroke-dasharray="345.58 345.58" transform="rotate(-90 270 105)"/>
-<text x="270" y="101" text-anchor="middle" fill="#e8e8f2" font-size="24" font-weight="700" font-family="Arial, sans-serif">1053</text>
+<text x="270" y="101" text-anchor="middle" fill="#e8e8f2" font-size="24" font-weight="700" font-family="Arial, sans-serif">1072</text>
 <text x="270" y="126" text-anchor="middle" fill="#8b90a7" font-size="13" font-weight="600" font-family="Arial, sans-serif">Total Contributions</text>
 <text x="270" y="190" text-anchor="middle" fill="#69a8ff" font-size="12" font-weight="600" font-family="Arial, sans-serif">Aug 24, 2025 - Present</text>
 
 <circle cx="630" cy="105" r="55" fill="none" stroke="#303141" stroke-width="12"/>
-<circle cx="630" cy="105" r="55" fill="none" stroke="#33c56b" stroke-width="12" stroke-linecap="round" stroke-dasharray="162.62 345.58" transform="rotate(-90 630 105)"/>
-<text x="630" y="101" text-anchor="middle" fill="#e8e8f2" font-size="24" font-weight="700" font-family="Arial, sans-serif">16</text>
+<circle cx="630" cy="105" r="55" fill="none" stroke="#33c56b" stroke-width="12" stroke-linecap="round" stroke-dasharray="182.95 345.58" transform="rotate(-90 630 105)"/>
+<text x="630" y="101" text-anchor="middle" fill="#e8e8f2" font-size="24" font-weight="700" font-family="Arial, sans-serif">18</text>
 <text x="630" y="126" text-anchor="middle" fill="#8b90a7" font-size="13" font-weight="600" font-family="Arial, sans-serif">Current Streak</text>
 <text x="630" y="158" text-anchor="middle" fill="#c88cff" font-size="12" font-weight="600" font-family="Arial, sans-serif">Longest: 34 days</text>
 <text x="630" y="190" text-anchor="middle" fill="#33c56b" font-size="12" font-weight="600" font-family="Arial, sans-serif">Aug 8, 2026</text>
