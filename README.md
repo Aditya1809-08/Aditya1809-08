@@ -74,11 +74,11 @@ Moving from visual experiments toward more functional applications:
 <br />
 
 <a href="https://www.canva.com/">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="42" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC/white" alt="Canva" width="52" height="52" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.make.com/">
-  <img src="https://cdn.simpleicons.org/make/6D00CC" alt="Make" height="42" />
+  <img src="https://cdn.simpleicons.org/make/6D00CC/white" alt="Make" width="52" height="52" />
 </a>
 
 </div>
