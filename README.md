@@ -86,24 +86,24 @@ Moving from visual experiments toward more functional applications:
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Mini CSS Projects
+### 🖥️ Animated Terminal
 
-A collection of interactive mini-projects, UI experiments and small web builds.
+An animated terminal-style portfolio interface with command prompts, timed output, and an interactive restart control.
 
 **Stack:** HTML • CSS • JavaScript
 
-[**View Repository →**](https://github.com/Aditya1809-08/mini-css-projects)
+[**Open Project →**](https://aditya1809-08.github.io/mini-css-projects/terminal/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧮 Calcora
+### ⏱️ Stopwatch
 
-A responsive glassmorphism calculator with expression handling and interactive controls.
+A responsive stopwatch project with an interactive timer interface built as part of the Mini CSS Projects collection.
 
 **Stack:** HTML • CSS • JavaScript
 
-[**View Project →**](https://github.com/Aditya1809-08/mini-css-projects/tree/main/calculator)
+[**Open Project →**](https://aditya1809-08.github.io/mini-css-projects/Stopwatch/)
 
 </td>
 </tr>
