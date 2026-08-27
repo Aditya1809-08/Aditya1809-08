@@ -73,8 +73,13 @@ Moving from visual experiments toward more functional applications:
 <br />
 <br />
 
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-[![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)](https://www.make.com/)
+<a href="https://www.canva.com/">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.make.com/">
+  <img src="https://cdn.simpleicons.org/make/6D00CC" alt="Make" height="42" />
+</a>
 
 </div>
 
