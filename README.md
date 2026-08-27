@@ -71,8 +71,11 @@ Moving from visual experiments toward more functional applications:
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,git,github,vscode,figma,notion,canva" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma, Notion and Canva" />
 
 <br />
+<br />
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/make.svg" width="48" height="48" alt="Make" />
+<a href="https://www.make.com/">
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
+</a>
 
 </div>
 
