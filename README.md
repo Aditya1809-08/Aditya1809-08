@@ -76,56 +76,15 @@ Moving from visual experiments toward more functional applications:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🖥️ Animated Terminal
+### 🖥️ Mini CSS Projects
 
-An animated terminal-style portfolio interface with command prompts, timed output, and an interactive restart control.
+A collection of frontend projects and interactive web experiments built with HTML, CSS and JavaScript.
 
-**Stack:** HTML • CSS • JavaScript
+[**Visit Website →**](https://aditya1809-08.github.io/mini-css-projects/)
 
-[**Open Project →**](https://aditya1809-08.github.io/mini-css-projects/terminal/)
-
-</td>
-<td width="50%" valign="top">
-
-### ⏱️ Stopwatch
-
-A responsive stopwatch project with an interactive timer interface built as part of the Mini CSS Projects collection.
-
-**Stack:** HTML • CSS • JavaScript
-
-[**Open Project →**](https://aditya1809-08.github.io/mini-css-projects/Stopwatch/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather App
-
-A weather interface with city search, unit switching, dynamic states and a glassmorphic UI.
-
-**Stack:** HTML • CSS • JavaScript
-
-[**View Project →**](https://github.com/Aditya1809-08/mini-css-projects/tree/main/weather-app)
-
-</td>
-<td width="50%" valign="top">
-
-### 👤 Social Cards
-
-Responsive social-profile cards with platform-specific visual themes and interactive UI.
-
-**Stack:** HTML • CSS • JavaScript
-
-[**View Project →**](https://github.com/Aditya1809-08/mini-css-projects/tree/main/social-card)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
