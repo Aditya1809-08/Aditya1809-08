@@ -84,7 +84,7 @@ A collection of frontend projects and interactive web experiments built with HTM
 
 [**Visit Website →**](https://aditya1809-08.github.io/mini-css-projects/)
 
-
+</div>
 
 ---
 
