@@ -79,7 +79,9 @@ Moving from visual experiments toward more functional applications:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
+<tr>
+<td width="33%" valign="top" align="center">
 
 ### 🖥️ Mini CSS Projects
 
@@ -87,7 +89,27 @@ A collection of frontend projects and interactive web experiments built with HTM
 
 [**Visit Website →**](https://aditya1809-08.github.io/mini-css-projects/)
 
-</div>
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌐 Hello-World
+
+An early creative web experiment built while learning web layout, styling, and structure.
+
+[**View Repository →**](https://github.com/Aditya1809-08/Hello-World)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 AI/ML Direction
+
+Building strong software foundations today with a long-term focus on AI/ML.
+
+[**Open GitHub →**](https://github.com/Aditya1809-08)
+
+</td>
+</tr>
+</table>
 
 ---
 
