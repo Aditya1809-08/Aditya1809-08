@@ -7,10 +7,13 @@
 
 **Find me online**
 
-[![GitHub](https://img.shields.io/badge/GitHub-11151c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-11151c?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
-[![Instagram](https://img.shields.io/badge/Instagram-11151c?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aditya.srivastav._18)
-[![X](https://img.shields.io/badge/X-11151c?style=flat-square&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
+<a href="https://github.com/Aditya1809-08"><img src="https://img.shields.io/badge/GitHub-Aditya1809--08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<a href="https://www.linkedin.com/in/aditya-srivastav-0a247634b/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<a href="https://instagram.com/aditya.srivastav._18"><img src="https://img.shields.io/badge/Instagram-Aditya.Srivastav._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<a href="https://x.com/ASrivastav77092"><img src="https://img.shields.io/badge/X-ASrivastav77092-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 </td>
 </tr>
