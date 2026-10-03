@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 ## 🧭 About Me
 
 I'm a **12th-grade science student from Gorakhpur, India**, currently focused on web development and gradually moving toward AI/ML.
