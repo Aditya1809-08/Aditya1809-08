@@ -3,18 +3,34 @@
 <img src="headuu.png" width="100%" alt="Aditya Srivastav header" />
 
  
-# Hi 👋, I'm Aditya Srivastav
+<h1 align="center">H i 👋 , &nbsp; I ' m &nbsp; A d i t y a &nbsp; S r i v a s t a v</h1>
+
+<hr />
+
+<table width="100%" cellpadding="18" cellspacing="0">
+<tr>
+<td width="70%" valign="top">
+
 ### 12th Grade Student • Aspiring Web Developer • Exploring AI/ML
- 
+
 Building small, polished web projects while learning by doing.
+
+</td>
+<td width="30%" valign="top" align="center">
+
+**Find me online**
+
+[![GitHub](https://img.shields.io/badge/GitHub-11151c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11151c?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-11151c?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aditya.srivastav._18)
+
+[![X](https://img.shields.io/badge/X-11151c?style=flat-square&logo=x&logoColor=white)](https://x.com/ASrivastava77092)
 
 </td>
 </tr>
 </table>
-
-**Find me online** 
-
-[![GitHub](https://img.shields.io/badge/GitHub-11151c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya1809-08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-11151c?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/) [![Instagram](https://img.shields.io/badge/Instagram-11151c?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aditya.srivastav._18) [![X](https://img.shields.io/badge/X-11151c?style=flat-square&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
 
 </div>
 
