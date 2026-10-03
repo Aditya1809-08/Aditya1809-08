@@ -4,7 +4,6 @@
 
  
 # Hi 👋, I'm Aditya Srivastav
- 
 ### 12th Grade Student • Aspiring Web Developer • Exploring AI/ML
 
 Building small, polished web projects while learning by doing.
