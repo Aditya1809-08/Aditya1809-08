@@ -5,8 +5,6 @@
  
 <h1 align="center">H i 👋 , &nbsp; I ' M &nbsp; A D I T Y A &nbsp; S R I V A S T A V </h1>
 
-<hr />
-
 **Find me online**
 
 [![GitHub](https://img.shields.io/badge/GitHub-11151c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
