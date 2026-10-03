@@ -7,17 +7,6 @@
 
 <hr />
 
-<table width="100%" cellpadding="18" cellspacing="0">
-<tr>
-<td width="70%" valign="top">
-
-### 12th Grade Student • Aspiring Web Developer • Exploring AI/ML
-
-Building small, polished web projects while learning by doing.
-
-</td>
-<td width="30%" valign="top" align="center">
-
 **Find me online**
 
 [![GitHub](https://img.shields.io/badge/GitHub-11151c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
