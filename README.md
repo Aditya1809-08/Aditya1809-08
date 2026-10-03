@@ -5,13 +5,6 @@
  
 <h1 align="center">H i 👋 , &nbsp; I ' M &nbsp; A D I T Y A &nbsp; S R I V A S T A V </h1>
 
-**Find me online**
-
-<a href="https://github.com/Aditya1809-08"><img src="https://img.shields.io/badge/GitHub-Aditya1809--08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/aditya-srivastav-0a247634b/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/aditya.srivastav._18"><img src="https://img.shields.io/badge/Instagram-Aditya.Srivastav._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/ASrivastav77092"><img src="https://img.shields.io/badge/X-ASrivastav77092-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
 </td>
 </tr>
 </table>
@@ -109,6 +102,13 @@ Building strong software foundations today with a long-term focus on AI/ML.
 </tr>
 </table>
 
+---
+**Find me online**
+
+<a href="https://github.com/Aditya1809-08"><img src="https://img.shields.io/badge/GitHub-Aditya1809--08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/aditya-srivastav-0a247634b/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/aditya.srivastav._18"><img src="https://img.shields.io/badge/Instagram-Aditya.Srivastav._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/ASrivastav77092"><img src="https://img.shields.io/badge/X-ASrivastav77092-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 ---
 
 ## 📊 GitHub Stats
