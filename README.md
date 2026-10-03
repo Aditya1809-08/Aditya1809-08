@@ -3,18 +3,15 @@
 <img src="headuu.png" width="100%" alt="Aditya Srivastav header" />
 
  
-<h1 align="center">H i 👋 , &nbsp; I ' m &nbsp; A d i t y a &nbsp; S r i v a s t a v</h1>
+<h1 align="center">H i 👋 , &nbsp; I ' M &nbsp; A D I T Y A &nbsp; S R I V A S T A V </h1>
 
 <hr />
 
 **Find me online**
 
 [![GitHub](https://img.shields.io/badge/GitHub-11151c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya1809-08)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-11151c?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-11151c?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aditya.srivastav._18)
-
 [![X](https://img.shields.io/badge/X-11151c?style=flat-square&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
 
 </td>
