@@ -26,7 +26,7 @@ Building small, polished web projects while learning by doing.
 
 [![Instagram](https://img.shields.io/badge/Instagram-11151c?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aditya.srivastav._18)
 
-[![X](https://img.shields.io/badge/X-11151c?style=flat-square&logo=x&logoColor=white)](https://x.com/ASrivastava77092)
+[![X](https://img.shields.io/badge/X-11151c?style=flat-square&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
 
 </td>
 </tr>
