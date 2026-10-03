@@ -1,132 +1,253 @@
+<!--
+  GitHub Profile README Template
+  Replace every value marked with [PLACEHOLDER].
+  The structure intentionally mirrors the supplied reference:
+  dark canvas, left identity rail, blue/cyan hero, bordered sections,
+  compact cards, icon grids, analytics, and a footer CTA.
+-->
+
 <div align="center">
 
-<img src="headuu.png" width="100%" alt="Aditya Srivastav header" />
-
-# Hi 👋, I'm Aditya Srivastav
-
-### 12th Grade Student • Aspiring Web Developer • Exploring AI/ML
-
-Building small, polished web projects while learning by doing.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya1809--08-111111?style=for-the-badge&logo=github)](https://github.com/Aditya1809-08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)
-[![Instagram](https://img.shields.io/badge/Instagram-aditya.srivastav._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.srivastav._18)
-[![X](https://img.shields.io/badge/X-ASrivastav77092-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
+<!-- Top navigation / utility strip -->
+<sub>
+  <a href="#about-me">About</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#tech-stack">Stack</a> ·
+  <a href="#github-analytics">Analytics</a> ·
+  <a href="#lets-connect">Contact</a>
+</sub>
 
 </div>
 
----
-
-## 🧭 About Me
-
-I'm a **12th-grade science student from Gorakhpur, India**, currently focused on web development and gradually moving toward AI/ML.
-
-- 🌱 Learning **HTML, CSS & JavaScript** through projects.
-- 🎨 Interested in **UI design, animations and creative web experiences**.
-- 🛠️ I prefer building things instead of only following tutorials.
-- 🎯 Long-term direction: **B.Tech in AI/ML + strong software development skills**.
-- 🚀 Currently improving one project and one commit at a time.
-
-## ⚙️ What I Build
-
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
+<td width="25%" valign="top" align="center">
 
-### 🎨 Web Projects
+<!-- ========================= LEFT PROFILE RAIL ========================= -->
 
-Small, practical interfaces and experiments built around responsive design and interaction.
+<img src="https://avatars.githubusercontent.com/u/275049728?v=4" width="150" alt="Aditya Srivastav profile portrait" />
 
-**Featured:**
-- Calculator
-- Weather App
-- Stopwatch
-- Calendar
-- Social Cards
-- Terminal UI
-- Habit Tracker
+### Aditya Srivastav
+
+<sub><b>12th Grade Student · Aspiring Web Developer</b></sub>
+
+<br />
+
+<a href="https://github.com/Aditya1809-08">
+  <img src="https://img.shields.io/github/followers/Aditya1809-08?style=flat-square&logo=github&label=followers&color=1f6feb&labelColor=11151c" alt="GitHub followers" />
+</a>
+
+<br /><br />
+
+📍 **Gorakhpur, India**  
+💼 **Independent learner and builder**  
+🎓 **12th-grade science student**  
+⚡ **Learn · Build · Ship · Repeat**
+
+<br />
+
+**Find me online**
+
+[![GitHub](https://img.shields.io/badge/GitHub-11151c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya1809-08)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11151c?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aditya-srivastav-0a247634b/)  
+[![Instagram](https://img.shields.io/badge/Instagram-11151c?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/aditya.srivastav._18)  
+[![X](https://img.shields.io/badge/X-11151c?style=flat-square&logo=x&logoColor=white)](https://x.com/ASrivastav77092)
 
 </td>
-<td width="50%">
+<td width="75%" valign="top">
 
-### 🧪 Current Direction
+<!-- =============================== HERO ================================ -->
 
-Moving from visual experiments toward more functional applications:
+<a name="top"></a>
 
-- JavaScript & DOM
-- Responsive UI
-- APIs
-- Better Git/GitHub workflow
-- Creative frontend development
-- AI/ML fundamentals
+<div align="center">
+
+<img width="100%" height="180" src="https://raw.githubusercontent.com/Aditya1809-08/Aditya1809-08/main/headuu.png" alt="Aditya Srivastav header" />
+
+### <span style="color:#58a6ff">Aspiring Web Developer · Exploring AI/ML</span>
+
+`HTML/CSS` · `JavaScript` · `Creative Web Experiences`
+
+</div>
+
+<hr />
+
+<!-- ============================== ABOUT ================================ -->
+
+<a name="about-me"></a>
+
+## About Me
+
+> I’m a 12th-grade science student from Gorakhpur, India, focused on web development and gradually moving toward AI/ML. I learn by building small, polished projects and improving one commit at a time.
+
+| Currently | Details |
+|---|---|
+| 🔭 Working on | **Mini CSS Projects and creative frontend experiments** |
+| 🌱 Learning | **JavaScript, APIs, responsive UI, and AI/ML fundamentals** |
+| 💬 Ask me about | **Frontend projects, UI ideas, animations, and beginner-friendly web development** |
+| 📫 Reach me | **[ADD YOUR PUBLIC EMAIL]** |
+
+<!-- =========================== PROJECTS ================================= -->
+
+<a name="featured-projects"></a>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Mini CSS Projects
+
+**A growing collection of frontend experiments**
+
+Small, practical interfaces and interactive web projects built with HTML, CSS, and JavaScript.
+
+**Built with:** `HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/Aditya1809-08/mini-css-projects">Repository</a> · <a href="https://aditya1809-08.github.io/mini-css-projects/">Live demo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Hello-World
+
+**An early creative web experiment**
+
+One of the first projects in the collection, built while developing a stronger foundation in web layout and styling.
+
+**Built with:** `HTML` `CSS`
+
+<a href="https://github.com/Aditya1809-08/Hello-World">Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Mini Applications
+
+**Small projects that turn practice into working interfaces**
+
+Calculator, weather app, stopwatch, calendar, social cards, terminal UI, and habit tracker experiments.
+
+**Built with:** `HTML` `CSS` `JavaScript` `APIs`
+
+<a href="https://github.com/Aditya1809-08/mini-css-projects">Explore projects</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI/ML Direction
+
+**From frontend foundations toward intelligent applications**
+
+Building strong software fundamentals now, with a long-term goal of pursuing B.Tech in AI/ML and creating useful, thoughtful products.
+
+**Built with:** `Python` `Git` `GitHub` `AI/ML fundamentals`
+
+<a href="https://github.com/Aditya1809-08">GitHub profile</a>
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+<!-- ============================ STACK ================================== -->
+
+<a name="tech-stack"></a>
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,git,github,vscode,figma,notion,canva" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, Figma, Notion and Canva" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, and JavaScript" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+
+**Cloud, Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,canva" alt="Git, GitHub, VS Code, Figma, Notion, and Canva" />
 
 </div>
 
----
+<!-- ============================ ANALYTICS =============================== -->
 
-## 🚀 Featured Projects
+<a name="github-analytics"></a>
 
-<div align="center">
-
-### 🖥️ Mini CSS Projects
-
-A collection of frontend projects and interactive web experiments built with HTML, CSS and JavaScript.
-
-[**Visit Website →**](https://aditya1809-08.github.io/mini-css-projects/)
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1809-08&hide_border=true&theme=github-dark-blue&border_radius=12" width="78%" alt="GitHub contribution streak, total contributions and longest streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya1809-08&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=2f81f7&ring_color=2f81f7" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1809-08&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
 
 <br />
-<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area_color=1f6feb&area=true&hide_border=true&radius=12&custom_title=Daily%20Commit%20Activity%20%E2%80%94%20Last%2030%20Days" width="82%" alt="Daily GitHub commit activity for the last 30 days" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1809-08&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
+<!-- ======================= FOCUS / INTERESTS ============================ -->
 
- ## 🧠 Learning Roadmap
+## Current Focus & Interests
 
 ```text
-HTML / CSS ──► JavaScript ──► Real Projects ──► APIs
-                    │
-                    ├──► UI / UX
-                    │
-                    └──► AI / ML ──► B.Tech
+┌─ FRONTEND FOUNDATIONS ──────────────────────────────────────────┐
+│ JavaScript, responsive UI, APIs, and creative web development.   │
+├─ BUILDING BY DOING ──────────────────────────────────────────────┤
+│ Turning small experiments into practical, polished applications. │
+├─ AI / ML ROADMAP ────────────────────────────────────────────────┤
+│ Preparing for a future B.Tech in AI/ML and stronger software      │
+│ development skills.                                               │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
-## 📌 Repositories
+<!-- ============================= BEYOND CODE =========================== -->
+
+## Beyond Code
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">🎨<br /><sub><b>UI DESIGN</b></sub><br /><sup>Creative interfaces</sup></td>
+<td align="center" width="25%">🧪<br /><sub><b>EXPERIMENTS</b></sub><br /><sup>Learn by building</sup></td>
+<td align="center" width="25%">📚<br /><sub><b>LEARNING</b></sub><br /><sup>Science and technology</sup></td>
+<td align="center" width="25%">🚀<br /><sub><b>AMBITION</b></sub><br /><sup>AI/ML and software</sup></td>
+</tr>
+</table>
+
+<!-- ============================== CONTACT ============================== -->
+
+<a name="lets-connect"></a>
+
+## Let's Connect
 
 <div align="center">
 
-| Repository | Description | Focus |
-|:---|:---|:---|
-| **[mini-css-projects](https://github.com/Aditya1809-08/mini-css-projects)** | Collection of frontend experiments and mini applications | HTML • CSS • JS |
-| **[Hello-World](https://github.com/Aditya1809-08/Hello-World)** | Early creative web experiment | HTML • CSS |
+If you’re exploring web development, creative UI, or AI/ML and want to connect, find me online.
+
+<a href="https://github.com/Aditya1809-08"><img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/aditya-srivastav-0a247634b/"><img src="https://img.shields.io/badge/LinkedIn-12365c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br /><br />
+
+<img width="100%" height="85" src="https://raw.githubusercontent.com/Aditya1809-08/Aditya1809-08/main/footeru.png" alt="Footer banner" />
+
+<sub>Thanks for stopping by · Aditya Srivastav · 2026</sub>
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-### Learn → Build → Ship → Repeat.
-
-<img src="footeru.png" width="100%" alt="Footer banner" />
-
-</div>
+<!--
+  Optional profile enhancements:
+  - Add a GitHub streak card from https://streak-stats.demolab.com/
+  - Replace remote cards with pinned repository links if external images are restricted.
+  - Keep table widths at 25% / 75% to preserve the reference's sidebar hierarchy.
+  - For a true profile README, name this file README.md in a repository matching your username.
+-->
