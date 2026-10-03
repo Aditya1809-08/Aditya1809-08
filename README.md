@@ -1,10 +1,6 @@
 <div align="center">
 
 <img src="headuu.png" width="100%" alt="Aditya Srivastav header" />
-
-<table align="center" width="92%" border="1" cellpadding="14" cellspacing="0">
-<tr>
-<td align="center">
  
 # Hi 👋, I'm Aditya Srivastav
  
